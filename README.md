@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Spring and Angular  
   
 
-- ❓ Ask me about anything related to LINUX  
+- ❓ Ask me about anything related to SHELL  
   
 
 <br/>  
