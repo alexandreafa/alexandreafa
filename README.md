@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Basis Tecnologia da Informação S.A](https://www.basis.com.br/)  
   
-- 🌱 I’m currently learning Spring and Angular  
+- 🌱 I’m currently learning Spring, Angular and soon Machine Learning
 
 
 ## Languages and Tools  
